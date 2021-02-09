@@ -1,6 +1,6 @@
 # vr_market
 
-A new Flutter application.
+Template for an E-commerce app
 
 ## Getting Started
 
